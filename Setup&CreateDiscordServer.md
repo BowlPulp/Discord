@@ -4,6 +4,7 @@
 If you haven't already, sign up for a Discord account on the official Discord website or via the Discord app.
 
 ## Login or Open Discord:
+### Create a Discord Account:
 Open the Discord app or go to the Discord website and log in using your credentials.
 
 ## Access the Server Creation:
