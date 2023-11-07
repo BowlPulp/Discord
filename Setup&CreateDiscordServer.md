@@ -1,10 +1,14 @@
-# 🔰 Discord's Setup & Management Guide   - BowlPulp 🔰
+# 🌟Chapter 1 | Server Basics 🌟
+### 🔰 Discord's Setup & Management Guide   - BowlPulp 🔰 
+<hr>
 
 ## Create a Discord Account:
-If you haven't already, sign up for a Discord account on the official Discord website or via the Discord app.
+If you haven't already, sign up for a Discord account on the official [Discord website](https://discord.com/) or via the Discord app.
+<br>
+**Playstore Link:** https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=US <br>
+**Appstore Link:** https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746
 
 ## Login or Open Discord:
-### Create a Discord Account:
 Open the Discord app or go to the Discord website and log in using your credentials.
 
 ## Access the Server Creation:
